@@ -1,0 +1,6 @@
+{
+  "name": "COGEM Conecta - Gestão Estratégica e do Conhecimento Enap",
+  "description": "Plataforma integrada de organização de ações, acervo documental, dados, People Analytics e gestão do conhecimento da Coordenação de Gestão Estratégica e Modernização (COGEM/Enap).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
